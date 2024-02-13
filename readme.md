@@ -11,3 +11,6 @@ As an advocate for Black Lives and the end of racism, I was curious to see what 
 The word clouds were actually pretty different. Using the second set of terms provided much different results than the first set. The differences may be a result of the more vague words in the second set compared to terms that are much more specific. 
 
 I was truthfully surprised that words like "justice" don't prompt for more serious results. I noticed a lot of results involving TV judges like Judge Judy rather than putting an emphasis on more serious issues like I had thought it would. 
+
+<img src = "img/wordbubble-1.png">
+<img src = "img/wordbubble-2.png">
